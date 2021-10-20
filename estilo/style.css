@@ -71,10 +71,12 @@ nav{
 nav a{
     color: var(--cor1);
     padding: 10px;
+    padding-top: 30px;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
     transition-duration: .4s;
+    
 }
 
 nav a:hover{
